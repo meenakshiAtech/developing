@@ -2,3 +2,13 @@ body{
     background-color: aliceblue;
     border: 0ch;
 }
+.main{
+    font-size: larger;
+    justify-content: center;
+    background-color: aquamarine;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-display: calc();
+}
