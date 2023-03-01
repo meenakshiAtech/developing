@@ -11,4 +11,7 @@ p{
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
     font-display: calc();
+    text-align: left;
+    text-decoration: dotted;
+    text-shadow: none;
 }
